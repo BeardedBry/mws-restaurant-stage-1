@@ -27,7 +27,7 @@
     background-color: #ccc;
     display: block;
     margin: 0 auto;
-    max-width: 50%;
+    max-width: 100%;
   }
 
   .inside #map-container {
@@ -383,7 +383,7 @@ nav h1 a {
   text-transform: uppercase;
   line-height: 1.1;
 }
-#restaurant-img {
+.restaurant-img {
   object-fit: cover;
   max-width: 100%;
   width: 100%;
